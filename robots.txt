@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/aibuildrs-aeo-agency-t9-r4-wels/sitemap.xml
